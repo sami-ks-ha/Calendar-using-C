@@ -7,3 +7,5 @@
 [![cppcheck-action](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/cppcheck.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/gitinspector.yml)
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/valgrind.yml/badge.svg)](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/valgrind.yml)

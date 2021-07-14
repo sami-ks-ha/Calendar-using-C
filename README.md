@@ -11,6 +11,8 @@
 
 [![cppcheck-action](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sami-ks-ha/Calendar-using-C/actions/workflows/cppcheck.yml)
 
-
+<a href="https://frontend.code-inspector.com/public/user/github/sami-ks-ha">
+   <img src="https://code-inspector.com/public/badge/user/github/sami-ks-ha?style=light" alt="code inspector badge" />
+</a>
 
 

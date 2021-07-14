@@ -1,0 +1,9 @@
+#include <stdio.h>
+\\ For all the input and output functions
+
+
+#include <stdlib.h>
+\\ contains all the libraries for smooth functiong of the projects
+
+int main(int argc, char* argv[]) 
+// taking arguements in the main function
